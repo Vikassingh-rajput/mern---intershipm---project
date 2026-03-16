@@ -25,3 +25,10 @@ This project is a MERN stack internship project. The goal is to build a full-sta
 frontend – React application  
 backend – Node.js and Express APIs  
 docs – project documentation
+
+## Project Goals
+- Build a full-stack MERN web application
+- Implement user authentication
+- Create REST APIs
+- Connect frontend with backend
+- Deploy the application
